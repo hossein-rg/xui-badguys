@@ -1,0 +1,14 @@
+.idea
+tmp
+backup/
+bin/
+dist/
+x-ui-*.tar.gz
+/x-ui
+/release.sh
+.sync*
+main
+release/
+access.log
+error.log
+.cache
