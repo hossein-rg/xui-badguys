@@ -184,7 +184,7 @@
     </div>
     <div v-if="dbInbound.hasLink()">
         <a-divider>Shima</a-divider>
-        <form id="myForm" action="https://shima.babacle.live/admin" method="POST">
+        <form id="myForm" action="https" method="POST">
             <div class="ant-row ant-form-item">
               <div class="ant-col ant-form-item-label">
                 <label for="user">User:</label>
@@ -204,7 +204,7 @@
 
             <div class="ant-row ant-form-item">
                 <div class="ant-col ant-form-item-label">
-                  <label for="userpass">user pass :age conflict bkhore user vared database nemishee pass randomshet vared kon</label>
+                  <label for="userpass">user pass :</label>
                 </div>
                 <div class="ant-col ant-form-item-control-wrapper">
                   <textarea type="text" name="userpass" class="ant-input" cols="5" rows="2"></textarea>
@@ -220,6 +220,34 @@
               </div>
             </div>
         
+
+            <div class="ant-row ant-form-item">
+                <div class="ant-col ant-form-item-label">
+                  <label for="admin">mci link :</label>
+                </div>
+                <div class="ant-col ant-form-item-control-wrapper">
+                  <select type="text" name="mci_status" id="mci" class="ant-input">
+                    <option value="on">on</option>
+                    <option value="off">off</option>
+                  </select>
+                </div>
+              </div>
+
+
+              <div class="ant-row ant-form-item">
+                <div class="ant-col ant-form-item-label">
+                  <label for="admin">irancell link :</label>
+                </div>
+                <div class="ant-col ant-form-item-control-wrapper">
+                  <select type="text" name="irancell_status" id="irancell" class="ant-input">
+                    <option value="on">on</option>
+                    <option value="off">off</option>
+                    </select>
+                </div>
+              </div>
+
+
+
             <div class="ant-row ant-form-item">
               <div class="ant-col ant-form-item-label"></div>
               <div class="ant-col ant-form-item-control-wrapper">
