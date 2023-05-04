@@ -36,5 +36,6 @@ Node - Go
 
 # Beauty
 
-![1](./media/main1.png)
-![2](./media/main2.png)
+![1](./media/panel.png)
+![2](./media/main1.png)
+![3](./media/panle1.png)
