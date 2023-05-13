@@ -1,8 +1,6 @@
 # x-ui-badguys
 
-
 # Features
-
 
 - Managing users with the least difficulty with PAXA
 - System Status Monitoring
@@ -19,15 +17,14 @@
 - Fix api routes (user setting will create with api)
 - Support to change configs by different items provided in panel
 
+# CODE WITH
 
-# CODE WITH 
 Node - Go
 
 # Developed By
 
 - [hossein](https://github.com/hossein-rg)
 - [majid](https://github.com/EzzMan)
-
 
 # A Special Thanks To
 
@@ -38,4 +35,4 @@ Node - Go
 
 ![1](./media/panle1.png)
 ![2](./media/main1.png)
-![3](./media/main2.png)
+![3](./media/main2.JPG)
