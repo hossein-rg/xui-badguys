@@ -31,8 +31,16 @@ Node - Go
 - [alireza](https://github.com/alireza0/)
 - [MHSanaei](https://github.com/MHSanaei)
 
-# Beauty
+# V 1.0.0
 
 ![1](./media/panle1.png)
 ![2](./media/main1.png)
 ![3](./media/main2.JPG)
+
+# V 2.0.1
+
+![1](./media/sold1.JPG)
+![1](./media/sold2.JPG)
+![2](./media/shop1.JPG)
+![2](./media/shop2.JPG)
+![2](./media/shop3.JPG)
