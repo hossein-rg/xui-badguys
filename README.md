@@ -40,7 +40,7 @@ Node - Go
 # V 2.0.1
 
 ![1](./media/sold1.JPG)
-![1](./media/sold2.JPG)
-![2](./media/shop1.JPG)
-![2](./media/shop2.JPG)
-![2](./media/shop3.JPG)
+![2](./media/sold2.JPG)
+![3](./media/shop1.JPG)
+![4](./media/shop2.JPG)
+![5](./media/shop3.JPG)
